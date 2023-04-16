@@ -8,7 +8,8 @@ You can easily install `aiContext` using Homebrew. Run these commands in your te
 
 ```bash
 brew tap robrien20/aiContext https://github.com/robrien20/aiContext.git
-brew install ai_context```
+brew install ai_context
+```
 
 And that's it. You're all set!
 
@@ -94,4 +95,5 @@ Commit History:
 
 Uncommitted Changes:
  M src/App.js
- M src/index.js```
+ M src/index.js
+ ```
